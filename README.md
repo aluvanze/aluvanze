@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm aluvanze</h1>
+<h1 align="center">Hi 👋, I'm Aluvanze</h1>
 <h3 align="center">Programmer from Kenya</h3>
 <li>- 👀 I’m engaged  in  programming and cyber security</li>
 <li>- 💞️ I’m looking to collaborate on begginer level projects to up my skills as a coder</li>
